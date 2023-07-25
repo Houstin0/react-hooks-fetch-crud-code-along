@@ -4,37 +4,61 @@
       "id": 1,
       "name": "Yogurt",
       "category": "Dairy",
-      "isInCart": false
+      "isInCart": true
     },
     {
       "id": 2,
       "name": "Pomegranate",
       "category": "Produce",
-      "isInCart": false
-    },
-    {
-      "id": 3,
-      "name": "Lettuce",
-      "category": "Produce",
-      "isInCart": false
+      "isInCart": true
     },
     {
       "id": 4,
       "name": "String Cheese",
       "category": "Dairy",
-      "isInCart": false
+      "isInCart": true
     },
     {
-      "id": 5,
-      "name": "Swiss Cheese",
-      "category": "Dairy",
-      "isInCart": false
+      "name": "juice",
+      "category": "Produce",
+      "isInCart": false,
+      "id": 7
     },
     {
-      "id": 6,
-      "name": "Cookies",
-      "category": "Dessert",
-      "isInCart": false
+      "name": "juice",
+      "category": "Produce",
+      "isInCart": false,
+      "id": 8
+    },
+    {
+      "name": "juice",
+      "category": "Produce",
+      "isInCart": false,
+      "id": 9
+    },
+    {
+      "name": "juice",
+      "category": "Produce",
+      "isInCart": false,
+      "id": 10
+    },
+    {
+      "name": "juice",
+      "category": "Produce",
+      "isInCart": false,
+      "id": 11
+    },
+    {
+      "name": "juice",
+      "category": "Produce",
+      "isInCart": false,
+      "id": 12
+    },
+    {
+      "name": "juice",
+      "category": "Produce",
+      "isInCart": false,
+      "id": 13
     }
   ]
 }
